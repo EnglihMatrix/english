@@ -1,0 +1,16 @@
+// English Matrix! program in C#.
+using System;
+namespace EnglishMatrix
+{
+    class Home 
+    {
+        static void Main() 
+        {
+            Console.WriteLine("English Matrix's Hub is coming soon!");
+
+            // Keep the console window open in debug mode.
+            Console.WriteLine("Press any key to exit.");
+            Console.ReadKey();
+        }
+    }
+}
